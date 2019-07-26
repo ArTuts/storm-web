@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/turoitz/storm-web/issues"
   },
-  "homepage": "https://github.com/turoitz/storm-web#readme"
+  "homepage": "https://github.com/turoitz/storm-web#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
